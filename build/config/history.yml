@@ -1,4 +1,30 @@
 build: Debug
-c:\Users\zodym\Desktop\Time\Time.cpp:
-  time: 2023-10-20T13:12:52.781Z
+c:\Users\zodym\Desktop\Code\Prayer-Calculation\.git\objects\87\d61afb3a374ac30601441453bad4a9fdf97f2c:
+  time: 2023-10-22T16:49:35.883Z
   files: []
+c:\Users\zodym\Desktop\Code\Prayer-Calculation\.git\objects\6b\657b0da3fcdc21bf15c89729b32786cfb8d97c:
+  time: 2023-10-22T16:49:35.884Z
+  files: []
+c:\Users\zodym\Desktop\Code\Prayer-Calculation\.git\objects\4a\9fd5af1e129d047730730ca08bdd642a72380c:
+  time: 2023-10-22T16:49:35.885Z
+  files: []
+c:\Users\zodym\Desktop\Code\Prayer-Calculation\.git\objects\2a\7f0955084bbf2486a21dd3d4c0f31e060e48bc:
+  time: 2023-10-22T16:49:35.886Z
+  files: []
+c:\Users\zodym\Desktop\Code\Prayer-Calculation\GregorianToJulian.cpp:
+  time: 2023-10-22T16:49:35.887Z
+  files:
+    - file: c:\Users\zodym\Desktop\Code\Prayer-Calculation\GregorianToJulian.h
+      time: 2023-10-22T16:41:21.203Z
+c:\Users\zodym\Desktop\Code\Prayer-Calculation\PrayerFormulas.cpp:
+  time: 2023-10-22T16:49:35.889Z
+  files:
+    - file: c:\Users\zodym\Desktop\Code\Prayer-Calculation\PrayerFormulas.h
+      time: 2023-10-22T16:48:02.901Z
+c:\Users\zodym\Desktop\Code\Prayer-Calculation\main.cpp:
+  time: 2023-10-22T16:58:48.610Z
+  files:
+    - file: c:\Users\zodym\Desktop\Code\Prayer-Calculation\PrayerFormulas.h
+      time: 2023-10-22T16:48:02.901Z
+    - file: c:\Users\zodym\Desktop\Code\Prayer-Calculation\GregorianToJulian.h
+      time: 2023-10-22T16:41:21.203Z
